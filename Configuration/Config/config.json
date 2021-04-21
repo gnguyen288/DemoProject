@@ -1,0 +1,16 @@
+{
+    "exclude": [
+        "**/bin",
+        "**/bower_components",
+        "**/jspm_packages",
+        "**/node_modules",
+        "**/obj",
+        "**/platforms"
+    ],
+    "DemoURL": "https://demoqa.com/select-menu",
+    "FirstName": "Giang",
+    "LastName": "Nguyen",
+    "UserName": "automation2",
+    "Password": "At@12345",
+    "Browser": "Chrome"
+}
